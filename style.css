@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    margin-top: 240px;
+    box-shadow: inset 5px 5px 12px #ffff,
+                5px 5px 12px rgba(0,0,0,.16);
+    /* background-color: #ecf0f3; */
+    width: 332px;
+    margin-left: 500px;
+    height: 330px;
+}
+table{
+    margin:auto;
+}
+input{
+    font-size:22px;
+    height:40px;
+    box-shadow: inset -5px -5px 12px #ffff,
+                inset 5px 5px 12px rgba(0,0,0,.16);
+ background-color: #ecf0f3;
+ border:none;
+ height: 46px;
+    width: 301px;
+    border-radius: 20px;
+
+}
+button{
+    height: 51px;
+    font-size: 22px;
+    width: 66px;
+    border-radius: 20px;
+}
